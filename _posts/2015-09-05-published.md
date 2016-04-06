@@ -5,7 +5,7 @@ date:   2015-09-05
 categories: book clojure data-science
 ---
 
-It's been over a year after I began writing [Clojure for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science) and I'm thrilled to say that the book is finally published. You can pick up a copy from [the publisher's website](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science) or from [Amazon](http://www.amazon.co.uk/gp/product/1784397180/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1784397180&linkCode=as2&tag=henrygarnerco-21).
+It's been over a year since I began writing [Clojure for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science) and I'm thrilled to say that the book is finally published. You can pick up a copy from [the publisher's website](https://www.packtpub.com/big-data-and-business-intelligence/clojure-data-science) or from [Amazon](http://www.amazon.co.uk/gp/product/1784397180/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1784397180&linkCode=as2&tag=henrygarnerco-21).
 
 Anyone who has written a book will know that it's no small undertaking (I ought to have applied my usual 'multiply by 3' rule of code estimation to the project at the outset). Many people have contributed along the way.
 
