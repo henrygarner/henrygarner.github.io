@@ -9,7 +9,9 @@ I did a podcast! I recently joined my JUXT colleagues Malcolm Sparks, Joe Little
 
 As leader of JUXT's AI chapter, I've looked to find ways to help our team understand the rapidly evolving AI ecosystem, and now we're sharing that knowledge with the wider tech community. As with the [Thoughtworks Radar](https://www.thoughtworks.com/en-gb/radar) which provided the original inspiration, the AI Radar maps frameworks, tools & techniques, languages, and platforms, providing structured insights and recommendations for navigating this complex landscape.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPae3vHHANA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VPae3vHHANA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The conversation was an opportunity to cut through the hype and explore some more nuanced perspectives on AI. We went off on lots of tangents, including my thoughts on why the results of studies into the impact of AI on software engineering are highly inconsistent, and why I'm watching interface developments in the Agentic IDE space closely. At the time of recording, Amazon's Kiro IDE has just been launched.
 
